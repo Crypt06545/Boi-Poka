@@ -118,7 +118,7 @@
   },
   {
     "bookId": 10,
-    "bookName": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "bookName": "Clean Code",
     "author": "Robert C. Martin",
     "image": "https://images-na.ssl-images-amazon.com/images/I/51E2055ZGUL.jpg",
     "review": "Robert C. Martin’s 'Clean Code' is a must-read for software developers. It offers practical advice on how to write clean, understandable, and maintainable code. The book covers best practices and real-world scenarios that every programmer will face.",
@@ -138,7 +138,7 @@
     "totalPages": 544,
     "rating": 4.8,
     "category": "Programming",
-    "tags": ["Python", "Data Analysis", "Web Development"],
+    "tags": ["Python", "Data Analysis"],
     "publisher": "No Starch Press",
     "yearOfPublishing": 2022
   },
@@ -157,14 +157,14 @@
   },
   {
     "bookId": 13,
-    "bookName": "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow",
+    "bookName": "Hands-On Machine Learning with Scikit",
     "author": "Aurélien Géron",
     "image": "https://m.media-amazon.com/images/I/51aViH7sqfL.jpg",
     "review": "Aurélien Géron's book provides practical, hands-on guidance to implement machine learning algorithms using Scikit-Learn, Keras, and TensorFlow. This is an invaluable resource for anyone looking to gain practical ML skills.",
     "totalPages": 850,
     "rating": 4.8,
     "category": "Machine Learning",
-    "tags": ["Machine Learning", "Deep Learning", "Python"],
+    "tags": ["Machine Learning", "Python"],
     "publisher": "O'Reilly Media",
     "yearOfPublishing": 2023
   },
@@ -183,7 +183,7 @@
   },
   {
     "bookId": 15,
-    "bookName": "The Pragmatic Programmer: Your Journey to Mastery",
+    "bookName": "The Pragmatic Programmer",
     "author": "David Thomas and Andrew Hunt",
     "image": "https://m.media-amazon.com/images/I/510NRcB7AAL.jpg",
     "review": "This classic has been updated to include modern development practices, providing developers with essential tips on debugging, project management, and testing. A timeless guide for any programmer.",
@@ -209,7 +209,7 @@
   },
   {
     "bookId": 17,
-    "bookName": "The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race",
+    "bookName": "The Code Breaker",
     "author": "Walter Isaacson",
     "image": "https://m.media-amazon.com/images/I/41an9tLSfBL.jpg",
     "review": "This biography of Jennifer Doudna and the discovery of CRISPR technology explores the ethical, medical, and scientific implications of gene editing, told by renowned biographer Walter Isaacson.",
@@ -235,14 +235,14 @@
   },
   {
     "bookId": 19,
-    "bookName": "Algorithms to Live By: The Computer Science of Human Decisions",
+    "bookName": "Algorithms to Live",
     "author": "Brian Christian and Tom Griffiths",
     "image": "https://m.media-amazon.com/images/I/510GRAYQNSL.jpg",
     "review": "This unique book applies algorithmic thinking to everyday life, making it engaging for both programmers and general readers. It explores how insights from computer science can improve decision-making.",
     "totalPages": 368,
     "rating": 4.5,
     "category": "Computer Science",
-    "tags": ["Algorithms", "Decision Making", "Computer Science"],
+    "tags": ["Algorithms", "Decision Making"],
     "publisher": "Henry Holt and Co.",
     "yearOfPublishing": 2023
   }
