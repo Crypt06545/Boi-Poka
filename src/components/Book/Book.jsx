@@ -1,7 +1,7 @@
-import React from "react";
+
 
 const Book = () => {
-  return <div>This is from book</div>;
+  return <div className="w-11/12 mx-auto my-10"></div>;
 };
 
 export default Book;
